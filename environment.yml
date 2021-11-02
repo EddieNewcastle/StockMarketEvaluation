@@ -1,12 +1,14 @@
-name: CBN_CRUDE_OIL_PRICE_DATA_ANALYSIS
+name: StockMarketEvaluation
 channels:
   - conda-forge
   - rdkit
 dependencies:
   - numpy
-  - python=3.8
+  - nlp
   - pandas
   - pip
+  - python=3.8
+  - rdkit
+  - yfinance
   - seaborn
   - matplotlib
-  - yfinance	
