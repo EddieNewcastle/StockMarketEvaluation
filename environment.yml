@@ -1,0 +1,12 @@
+name: CBN_CRUDE_OIL_PRICE_DATA_ANALYSIS
+channels:
+	- conda-forge
+	- rdkit
+dependencies:
+	-numpy
+	-python=3.8
+	-pandas
+	-pip
+	-seaborn
+	-matplotlib
+	
