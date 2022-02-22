@@ -1,15 +1,12 @@
 name: StockMarketEvaluation
 channels:
   - conda-forge
-  - rdkit
 dependencies:
   - numpy
   - nlp
   - pandas
   - pip
   - python=3.8
-  - rdkit
-  - yfinance
   - seaborn
   - matplotlib
-  - iexfinance
+  - iexfinance.apidata.get_api_status(**kwargs)
