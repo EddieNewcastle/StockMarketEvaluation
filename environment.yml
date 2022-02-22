@@ -9,4 +9,4 @@ dependencies:
   - python=3.8
   - seaborn
   - matplotlib
-  - iexfinance.apidata.get_api_status(**kwargs)
+  - YFinance
