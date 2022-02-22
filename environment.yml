@@ -12,3 +12,4 @@ dependencies:
   - yfinance
   - seaborn
   - matplotlib
+  - iexfinance
